@@ -1,7 +1,7 @@
 const UserList = [
     {
       id: 1,
-      name: "John",
+      name: "Jonas",
       username: "john",
       age: 20,
       nationality: "CANADA",
